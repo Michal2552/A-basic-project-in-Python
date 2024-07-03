@@ -1,0 +1,23 @@
+{
+  "pizza": {
+    "Margherita": {"price": 10, "ingredients": ["tomato sauce", "mozzarella cheese"]},
+    "pepperoni": {"price": 12, "ingredients": ["tomato sauce", "mozzarella cheese", "pepperoni"]},
+    "vegetarian": {"price": 11,"ingredients": ["tomato sauce", "mozzarella cheese", "bell peppers", "onions", "mushrooms"]}
+  },
+  "salad": {
+    "greek": {"price": 8, "ingredients": ["lettuce", "tomatoes", "cucumbers", "feta cheese", "olives"]},
+    "caesar": {"price": 7, "ingredients": ["lettuce", "croutons", "parmesan cheese", "caesar dressing"]},
+    "caprese": {"price": 9, "ingredients": ["mozzarella cheese", "tomatoes","basil", "balsamic glaze"]}
+  },
+  "drink": {
+    "water": {"price": 1},
+    "cola": {"price": 2},
+    "lemonade": {"price": 2},
+    "iced tea": {"price": 2},
+    "orange juice": {"price": 3}
+  },
+  "dessert": {
+    "chocolate cake": {"price": 5},
+    "cheesecake": {"price": 6}
+  }
+}
